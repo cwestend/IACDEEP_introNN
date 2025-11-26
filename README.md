@@ -1,7 +1,8 @@
 # IACDEEP_introNN
 Introductory lecture to Neural Networks and Deep Learning at tha IAC
 
-Check the [slides](https://github.com/cwestend/IACDEEP_introNN/blob/main/Intro_to_NN_at_IAC.pdf) to the lecture and the [full video](https://iactalks.iac.es/talks/view/1901).
+Check the [slides](https://github.com/cwestend/IACDEEP_introNN/blob/main/Intro_to_NN_at_IAC.pdf) to the lecture and the [full video](https://iactalks.iac.es/talks/view/1901) 
+or [see it on Youtube](https://www.youtube.com/watch?v=qgnKnKomZAg).
 
 ## Notebooks:
 
